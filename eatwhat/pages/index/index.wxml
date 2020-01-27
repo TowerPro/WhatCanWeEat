@@ -1,0 +1,7 @@
+<view class="container">
+  <image class="title" src="/images/title.png" style="{{titleStyle}}"></image>
+  <button open-type="button" class="btn" bindtap="JumpToSingle">{{BtnInfo}}</button>
+  <button open-type="button" class="btn1" bindtap="JumpToMore">{{BtnInfo1}}</button>
+  <button open-type="button" class="btn2" bindtap="JumpToDessert">{{BtnInfo2}}</button>
+</view>
+  

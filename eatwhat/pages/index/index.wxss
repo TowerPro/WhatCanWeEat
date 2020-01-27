@@ -1,0 +1,62 @@
+page{
+  height:100%;
+  overflow: hidden;
+}
+.container{
+    height: 100vh;
+    /* height: 100%;
+    overflow: hidden; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.title{
+  position: absolute;
+  top: 150rpx;
+  width: 600rpx;
+  height:250rpx;
+  transition: opacity 1s;
+}
+.bgi{
+    position: absolute;
+    top: 0;
+    left: -950rpx;
+    width: 320%;
+    height: 110%;
+    /* border-radius: 10%; */
+    z-index: -1;
+    transition: opacity 1s;
+}
+.wait{
+  position: absolute;
+  top: 35%;
+  transition: opacity 1s;
+  width: 500rpx;
+  height: 80rpx;
+}
+
+.btn{
+  position: absolute;
+  top: 500rpx;
+  width: 250rpx;
+  height: 110rpx;
+}
+
+.btn1{
+  position: absolute;
+  top: 650rpx;
+  width: 250rpx;
+  height: 110rpx;
+}
+
+.btn2{
+  position: absolute;
+  top: 800rpx;
+  width: 250rpx;
+  height: 110rpx;
+}
+
+button{
+  transition: opacity 1s;
+}

@@ -1,0 +1,6 @@
+<!--pages/single/single.wxml-->
+<view class="container">
+  <h3 class="single">{{Single}}</h3>
+  <text onload="connect" class="wa">{{item_list}}</text>
+  <button bindtap="connect" class="ReFresh">点我更换</button>
+</view>
