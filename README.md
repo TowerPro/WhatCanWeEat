@@ -1,8 +1,6 @@
----
-typora-root-url: images
----
-
 # 今天吃什么
+
+* ![QRcode](QRcode.jpg)
 
 ## 爬虫
 
