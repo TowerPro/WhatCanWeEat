@@ -32,6 +32,3 @@
 ![index](images/index.png)
 
 ![page](images/page.png)
-
-
-
