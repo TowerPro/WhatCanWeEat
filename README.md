@@ -1,6 +1,6 @@
 # 今天吃什么
 
-* ![QRcode](QRcode.jpg)
+![QRcode](images/QRcode.jpg)
 
 ## 爬虫
 
@@ -27,11 +27,11 @@
 
 ## PIC
 
-![logo](logo.jpg)
+![logo](images/logo.jpg)
 
-![index](index.png)
+![index](images/index.png)
 
-![page](page.png)
+![page](images/page.png)
 
 
 
